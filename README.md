@@ -5,6 +5,8 @@ In this training, you will be presented with a mix of video lessons and assignme
 
 In each module, you will find video lessons marked with this icon 📺 and assignments will be marked with this icon 📓. 
 
+<code>
+<!--
 ## To begin
 Your journey begins in Module 0, where you’ll setup everything you need to complete the training.
 
@@ -35,3 +37,6 @@ It is beneficial that you take advantage of the resources presented to you, but 
 
 ## Questions
 If you have any questions regarding setup or on any of the learning modules, head over to the [GitHub Education Community](https://education.github.community/c/teachers/advisors) for assistance.
+
+--->
+</code>
